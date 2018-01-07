@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+        <color name="colorPrimary">#5EA9D6</color>
+        <color name="colorPrimaryDark">#2b3f56</color>
+        <color name="colorAccent">#5EA9D6</color>
+        <color name="textColor">#FFFF</color>
+        <color name="lightPrimary">#D4E8F4</color>
+        <color name="colorGreen">#5EA9D6</color>
+        <color name="colorGray">#ececec</color>
+        <color name="border">#FFAB93</color>
+        <color name="ProfileColorPrimary">#cccdce</color>
+        <color name="ProfileColorPrimaryDark">#cccdce</color>
+        <color name="ProfileColorAccent">#cccdce</color>
+
+        <color name="lightGreen"> #00e64d</color>
+</resources>
